@@ -22,10 +22,6 @@
 - Kotlin & Jetpack Compose
 - UI/UX Design
 
-🌱 Currently Learning:
-
-- Flutter x Supabase
-
 ⚡ Current Project:
 
 - NotaryTrack (Thesis Project)
