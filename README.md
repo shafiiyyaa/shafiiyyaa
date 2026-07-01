@@ -1,4 +1,5 @@
 <div align="center">
+![](https://komarev.com/ghpvc/?username=shafiiyyaa&color=4B5694)
 
 # ☁️ Hi there! 👋 I'm Shafiyyah Al Khansa
 
@@ -101,17 +102,9 @@ mood:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=figma,blender"/>
+<img src="https://skillicons.dev/icons?i=figma,blender,canva,tableau,sketchup"/>
 
 </p>
-
-<table align="center">
-<tr>
-<td align="center">🎨 Canva</td>
-<td align="center">📊 Tableau</td>
-<td align="center">🏡 SketchUp</td>
-</tr>
-</table>
 
 ---
 
