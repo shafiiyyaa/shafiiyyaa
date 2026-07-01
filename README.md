@@ -1,60 +1,60 @@
 <div align="center">
-![](https://komarev.com/ghpvc/?username=shafiiyyaa&color=4B5694)
+
+<img src="https://komarev.com/ghpvc/?username=shafiiyyaa&label=Profile+Views&color=4B5694&style=flat" />
 
 # ☁️ Hi there! 👋 I'm Shafiyyah Al Khansa
 
 ### Software Engineering Student | UI/UX Design Enthusiast | Mobile App Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&pause=1000&color=4B5694&center=true&vCenter=true&width=700&lines=Building+solutions+with+code+and+creativity+☁️;Flutter+Developer+in+Progress+🩵;Currently+building+NotaryTrack+⚖️;Coffee+%2B+Code+%3D+Happiness+☕;Learning+Flutter+x+Supabase+🚀" />
-
 </div>
 
 ---
 
+<table align="center">
+<tr>
+<td width="50%">
+
 ## 🌷 About Me
 
-🎓 Software Engineering Student at Universitas Darussalam Gontor
+🎓 Software Engineering Student
 
-📚 Final Year Student
+🏫 Universitas Darussalam Gontor
 
-💙 Passionate about:
+💙 Passionate About
 
 - Flutter Development
 - Kotlin & Jetpack Compose
 - UI/UX Design
+- Web Development
 
-⚡ Current Project:
+☕ Coffee + Code = Happiness 🙂‍↕️
 
-- NotaryTrack (Thesis Project)
+</td>
 
-☕ Fun Fact:
+<td width="50%">
 
-> Coffee + Code = Happiness 🙂‍↕️
+## ⚡ Currently
 
----
 
-## ☁️ Current Journey
+📖 Learning
 
-```yaml
-name: Shafiyyah Al Khansa
+**Flutter × Supabase**
 
-currently_working_on:
-  - NotaryTrack
+🎯 Goal
 
-currently_learning:
-  - Flutter
-  - Supabase
+_To grow into a successful individual who adds value and spreads happiness to society._
 
-goal_2026:
-  - To grow into a successful individual who adds value and spreads happiness to society.
+☁️ Status
 
-mood:
-  - Building meaningful things ✨
-```
+Building meaningful things.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🩵 Connect With Me
+<h2 align="center">🩵 Connect With Me</h2>
 
 <p align="center">
 
@@ -78,69 +78,63 @@ mood:
 
 ---
 
-# 💻 Development Languages
+<h2 align="center">💻 Development Languages</h2>
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,js,python,html,css,mysql,cpp,cs"/>
+</p>
+
+---
+
+<h2 align="center">⚙️ Development Tools</h2>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=supabase,vscode,git,androidstudio,kaggle"/>
+</p>
 
 </p>
 
 ---
 
-# ⚙️ Development Tools
+<h2 align="center">🎨 Design & Visualization</h2>
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=supabase,vscode,git,androidstudio"/>
-
+<img src="https://skillicons.dev/icons?i=figma,canva,blender,tableau,sketchup"/>
 </p>
 
 ---
 
-# 🎨 Design & Visualization
+<h2 align="center">🎮 Game Development</h2>
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=figma,blender,canva,tableau,sketchup"/>
-
-</p>
-
----
-
-# 🎮 Game Development
-
-<p align="center">
-
 <img src="https://skillicons.dev/icons?i=unity"/>
-
 </p>
 
 ---
 
-# 📊 GitHub Statistics
+<h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shafiiyyaa&show_icons=true&theme=transparent"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shafiiyyaa&show_icons=true&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shafiiyyaa&theme=transparent"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shafiiyyaa&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🌎 Most Used Languages
+<h2 align="center">🌎 Most Used Languages</h2>
 
 <p align="center">
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafiiyyaa&layout=compact&theme=transparent"/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafiiyyaa&layout=compact&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
 
@@ -150,15 +144,23 @@ mood:
 
 ---
 
-# 🎵 Spotify
+<h2 align="center">🎵 Spotify</h2>
+
+<div align="center">
 
 Coming Soon 🎧
 
+</div>
+
 ---
 
-# ☁️ Daily Quote
+<h2 align="center">☁️ Daily Quote</h2>
 
-> "Small progress is still progress."
+<div align="center">
+
+> *"Small progress is still progress."*
+
+</div>
 
 ---
 
@@ -166,6 +168,10 @@ Coming Soon 🎧
 
 ### 🌷 Thanks for visiting my profile 🌷
 
-Building solutions with code and creativity ☁️🩵
+☁️ Building solutions with code and creativity
+
+🩵 Flutter • UI/UX • Mobile Development
+
+⭐ One commit at a time
 
 </div>
