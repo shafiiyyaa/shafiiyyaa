@@ -15,11 +15,11 @@
 - 🎓 Software Engineering Student at Universitas Darussalam Gontor
 - 📱 Interested in Flutter & Kotlin Development
 - 🎨 Passionate about UI/UX Design
-- 💻 Love building Mobile & Web Applications
+- 💻 Love Building Mobile & Web Applications
 
 ---
 
-## 🩵 Connect with Me
+## 🩵 Connect With Me
 
 <p align="center">
 
@@ -62,25 +62,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shafiiyyaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=shafiiyyaa&theme=tokyonight&hide_border=true"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shafiiyyaa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=shafiiyyaa&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafiiyyaa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophy
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shafiiyyaa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
 </p>
 
 ---
@@ -103,6 +90,6 @@
 
 <div align="center">
 
-> *"Small progress is still progress."* 🌷
+*"Small progress is still progress."* 🌷
 
 </div>
